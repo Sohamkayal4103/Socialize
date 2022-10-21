@@ -67,6 +67,7 @@ const Hero = () => {
         >
           <Typography variant="h3" component="h1" className={classes.title}>
             Oragnise an Event
+            This are the changes made by me
           </Typography>
           <Button color="primary" variant="contained" className={classes.btn}>
             Organise an Event
